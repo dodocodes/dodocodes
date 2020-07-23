@@ -35,6 +35,7 @@ If applicable, add screenshots to help explain your problem.
 What type of browser are you using? Windows or Mac? Android or iOS?
 
 Device: [e.g. iPhoneX, Android, Laptop]
+
 Version: [e.g. iOS 11.3.1, Android 10.0, Windows 10]
 
 **Additional context:**
